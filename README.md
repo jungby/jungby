@@ -8,4 +8,3 @@ Game dev. enthusiast studying systems engineering, a python big fan but always o
 - 🎮 Currently working on an educational game - Unity
 - 📖 Trying to learn as much as I can
 - 🤝 Want to collab? Let's do it!
-- 👀 Let's connect on [LinkedIn](www.linkedin.com/in/laurarodriguezo)
