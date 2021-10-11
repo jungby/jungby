@@ -1,5 +1,3 @@
-![Header](https://github.com/otterlab/otterlab/blob/main/OTTERLAB_GITHUB.png?raw=true)
-
 # Heyo~
 ## I am Laura 🦦
 
