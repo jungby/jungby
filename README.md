@@ -1,12 +1,12 @@
-# Heyo~
+# What's up?
 ## I am Laura 🦦
 
-Game dev. enthusiast studying systems engineering, a python big fan but always open to learning more things. Random idea giver while showering or at 3 a.m. while trying to sleep. Intermediate knowledge of Python and Java, basic knowledge of HTML, CSS and Javascript. Worked with GameMaker Studio 2 and now learning Unity.
+Random idea giver while showering, or at 3 a.m. while trying to sleep. Intermediate knowledge of back-end but now I am focused on trying new things.
 
-- 🎮 Wants to learn C++ and C#
+- 💘 In a love-hate relationship with vim
 - 📖 Trying to learn as much as I can
-- 🤝 Open to collabs? Always!
+- 🤝 Always open to collaborations
 
 ### Contact
 
-Discord: laura#5939
+Discord: jungby.exe
