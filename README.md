@@ -7,7 +7,7 @@ Random idea giver while showering, or at 3 a.m. while trying to sleep. Intermedi
 - 📖 Trying to learn as much as I can
 - 🤝 Always open to collaborations
 
-[![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/252573416165474305)
+[![twitter](https://img.shields.io/twitter/follow/meowrasic)](https://discordapp.com/users/252573416165474305)
 
 What's playing on my car trip:
 
