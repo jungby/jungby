@@ -11,4 +11,4 @@ Check out my [portfolio](https://jungbyvscode.vercel.app/) 🫡
 
 What's playing on my car trip:
 
-[![Spotify](https://novatorem-rust-xi.vercel.app/api/spotify)](https://open.spotify.com/user/lauraequisde)
+[![Spotify](https://novatorem-rust-xi.vercel.app/api/orchestrator)](https://open.spotify.com/user/lauraequisde)
